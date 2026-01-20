@@ -13,3 +13,7 @@ https://colab.research.google.com/drive/1a780jCCoknmHl-AoPocwtagdm_QeuW1o?usp=sh
 ## Lab Exercise 4 - RAG Pipeline with Hugging Face
 
 https://colab.research.google.com/drive/1WJYvM3gDjf9o6_WHKmBJv3V1pEpcE6Nm?usp=sharing
+
+## Lab Exercise 5 - RAG-based Knowledge QA System Using CSV Knowledge Base
+
+https://colab.research.google.com/drive/1AXxXLF7zpyzlUFHt7d6nixv7EsAzsaSf?usp=sharing
