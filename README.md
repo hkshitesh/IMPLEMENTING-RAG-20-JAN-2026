@@ -5,3 +5,7 @@ https://colab.research.google.com/drive/1IPBvDtafvIFXh3L9-g-YCxBIjE-Rif5C?usp=sh
 ## LAB EXERCISE 2: Basic RAG Implementation
 
 https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-wnu?usp=sharing
+
+##Lab Exercise 3 - Building a Simple RAG Model for Summarization
+
+https://colab.research.google.com/drive/1a780jCCoknmHl-AoPocwtagdm_QeuW1o?usp=sharing
