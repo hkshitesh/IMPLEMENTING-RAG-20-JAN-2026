@@ -17,3 +17,9 @@ https://colab.research.google.com/drive/1WJYvM3gDjf9o6_WHKmBJv3V1pEpcE6Nm?usp=sh
 ## Lab Exercise 5 - RAG-based Knowledge QA System Using CSV Knowledge Base
 
 https://colab.research.google.com/drive/1AXxXLF7zpyzlUFHt7d6nixv7EsAzsaSf?usp=sharing
+
+## MCP Server Demo GitHub Repo Link
+
+https://github.com/hkshitesh/MCP-SERVER-DS
+
+
