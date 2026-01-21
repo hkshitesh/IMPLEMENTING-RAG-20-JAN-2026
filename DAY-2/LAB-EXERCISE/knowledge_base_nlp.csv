@@ -1,0 +1,9 @@
+text
+Retrieval-Augmented Generation combines document retrieval with text generation.
+RAG reduces hallucinations by grounding responses in retrieved documents.
+Natural Language Processing enables machines to understand text.
+A vector database stores embeddings for similarity search.
+LLMs generate human-like text based on probability distributions.
+FAISS is a library for fast vector similarity search.
+RAG is widely used in enterprise chatbots.
+Summarization condenses long documents into short versions.
